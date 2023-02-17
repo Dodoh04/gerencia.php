@@ -1,0 +1,15 @@
+ping = testa conexao (ex.: ping www.facebock..)cmd
+tracert = rota destino
+ipconfig = exibe ip 
+
+
+
+
+lan = red local
+wan = internet
+
+ipconfig/ all= ip,dns,mac
+ipconfig = ip
+
+
+dns=  servidor de sites com endereço nome e ip
